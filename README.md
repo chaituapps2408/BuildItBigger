@@ -1,2 +1,2 @@
-# Builg it bigger Project
+# Build it bigger Project
 
